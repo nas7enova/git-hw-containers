@@ -106,8 +106,4 @@ class Team {
     }
 }
 
-export { Team, Character, ErrorRepository, Settings };
-
-// import sum from './basic.js';
-// console.log('worked');
-// console.log(sum([1, 2]));
+export { Team, Character, ErrorRepository, Settings }

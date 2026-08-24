@@ -36,7 +36,7 @@ export default defineConfig([
       "node_modules/",
       "build/",
       "coverage/",
-      "temp.js",
+      "**/temp.js",
       "config/*",
     ],
   },
